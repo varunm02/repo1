@@ -118,11 +118,11 @@
 
 	<distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>rep2</id>
             <url>http://3.91.161.235:8081/repository/rep2/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>repo</id>
             <url>http://3.91.161.235:8081/repository/repo/</url>
         </snapshotRepository>
     </distributionManagement>
