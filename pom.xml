@@ -119,11 +119,11 @@
 	<distributionManagement>
         <repository>
             <id>rep2</id>
-            <url>http://3.91.161.235:8081/repository/rep2/</url>
+            <url>http://54.234.45.71:8081/repository/rep2/</url>
         </repository>
         <snapshotRepository>
             <id>repo</id>
-            <url>http://3.91.161.235:8081/repository/repo/</url>
+            <url>http://54.234.45.71:8081/repository/repo/</url>
         </snapshotRepository>
     </distributionManagement>
 
